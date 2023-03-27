@@ -1,0 +1,10 @@
+Gin and Juice,Snoop Dogg,Doggystyle,214,1000000
+N.Y. State of Mind,Nas,Illmatic,268,500000
+California Love,2Pac ft. Dr. Dre,All Eyez on Me,344,750000
+Rapper's Delight,The Sugarhill Gang,Rapper's Delight,895,250000
+Juicy,The Notorious B.I.G.,Ready to Die,339,800000
+Straight Outta Compton,N.W.A,Straight Outta Compton,291,350000
+Regulate,Warren G ft. Nate Dogg,Regulate...G Funk Era,214,400000
+The Message,Grandmaster Flash & The Furious Five,The Message,433,200000
+It Was a Good Day,Ice Cube,The Predator,252,600000
+Paid in Full,Eric B. & Rakim,Paid in Full,249,150000
